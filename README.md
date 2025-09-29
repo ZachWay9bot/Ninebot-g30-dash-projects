@@ -5,3 +5,5 @@ Dashv7FinalUniresCYDesp32BLEk The C -urrent TFT Version
 esp32c3 ble server - Main ESC bridge (Schematic follows...)
 
 Dashboardserversimk - esp32c3 ESC sim for offline dashboard Test with no Scooter
+
+nanogpiok - io expander with nano. blinker, highbeam , delta relay pin
