@@ -1,4 +1,4 @@
-8x8k - Dash with max7219 led matrix
+Dash8x8k - Dash with max7219 led matrix
 
 Dashv7FinalUniresCYDesp32BLEk The C -urrent TFT Version
 
