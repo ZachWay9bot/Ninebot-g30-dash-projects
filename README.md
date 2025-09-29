@@ -1,8 +1,8 @@
-Dash8x8k - Dash with max7219 led matrix
+Dash8x8k - Oldschool Dash with max7219 led matrix (Speed 3x5 Font & Battery 7x2 Bar)
+(automatic star/delta switch routine included)
+Dashv7FinalUniresCYDesp32BLEk - The Current TFT Version for ST7789 TFT_ESPI ESP32C3-Supermini (automatic star/delta switch routine included)
 
-Dashv7FinalUniresCYDesp32BLEk - The Current TFT Version
-
-esp32c3 ble server - Main ESC bridge (Schematic follows...)
+esp32c3 ble server - Main ESC bridge (packet parser included) ESP32C3-Supermini (Schematic follows...)
 
 Dashboardserversimk - esp32c3 ESC sim for offline dashboard Test with no Scooter
 
