@@ -1,6 +1,6 @@
 Dash8x8k - Dash with max7219 led matrix
 
-Dashv7FinalUniresCYDesp32BLEk The C -urrent TFT Version
+Dashv7FinalUniresCYDesp32BLEk - The Current TFT Version
 
 esp32c3 ble server - Main ESC bridge (Schematic follows...)
 
